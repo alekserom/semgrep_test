@@ -1,0 +1,10 @@
+test6.py
+Command_Injection
+Flask Debug-> leak sensetive information
+
+test7.js
+Command_Injection
+
+
+test8.php
+Command_Injection
